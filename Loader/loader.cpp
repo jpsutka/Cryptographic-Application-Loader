@@ -1,3 +1,5 @@
+// Developer: Jacob Psutka
+
 #include <iostream>
 #include <windows.h>
 #include <string>
